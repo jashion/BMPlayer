@@ -1,2 +1,2 @@
 # BMPlayer
-BMPlayer is a player with ffmpeg.
+BMPlayer is a iOS player with ffmpeg.
